@@ -1,0 +1,35 @@
+"*":
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 15
+    showIndentGuide: true
+    invisibles: {}
+  core:
+    ignoredNames: [
+      ".bundle"
+      ".git"
+      "log"
+      "repositories"
+      "tmp"
+      "vendor"
+    ]
+    disabledPackages: [
+      "background-tips"
+      "exception-reporting"
+      "metrics"
+    ]
+    themes: [
+      "seti-ui"
+      "atom-dark-syntax"
+    ]
+  "spell-check":
+    grammars: [
+      "text.plain"
+      "source.gfm"
+      "text.git-commit"
+    ]
+  welcome:
+    showOnStartup: false
+  "release-notes":
+    viewedVersion: "0.89.0"
+  "go-plus": {}
