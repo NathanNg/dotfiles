@@ -6,3 +6,5 @@ I forked holman (https://github.com/holman/dotfiles) dotfiles and removed the th
 ### Installation
 
 #### Dependency
+
+##### Email
