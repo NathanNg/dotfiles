@@ -19,8 +19,8 @@
       "metrics"
     ]
     themes: [
-      "seti-ui"
-      "atom-dark-syntax"
+      "white-ui"
+      "atom-light-syntax"
     ]
   "spell-check":
     grammars: [
